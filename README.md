@@ -1,5 +1,5 @@
 # Emotion-detection-deep-learning
-Emotion detection with python with Open-CV and model prepared with deep learning using Tensorflow and Keras.
+Emotion detection with python, Open-CV and model prepared with deep learning using Tensorflow and Keras.
 
 ## Required libraries
 Install the required libraries (on linux, use pip3)
